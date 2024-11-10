@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #acacac;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+}
+li{
+    border: 1px #ccc;
+    padding: 10px;
+    margin: 5px;
+}
+
+#Leyenda{
+    font-size: 30px;
+}
+
+#Agregar{
+    font-size: 16px;
+    height: 38px;
+    width: 120px;
+    text-align: center;
+    align-content: center;
+    color: white;
+    background-color: black;
+    border-radius: 10%;
+}
+#TareaNueva{
+    height: 30px;
+    font-size: 15px;
+    border-radius: 10%;
+    border:10px white;
+}
+

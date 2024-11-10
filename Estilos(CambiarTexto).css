@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Parrafo{
+    font-size: 25px;
+}
+
+#Cambiar_Color{
+    margin: 20px;
+    width: 120px;
+    height: 70px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
